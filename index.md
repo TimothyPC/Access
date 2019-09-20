@@ -26,7 +26,7 @@
 	
 	<p1 id="p1" ></p1>
 	<br> <br>
-	<img  id="img2" > <br>
+	<img  id="img2"  src="img/scr2_tv.png"  > <br>
 	<img  id="img1" > <br>
 	<img  id="img0" > <br>
 
