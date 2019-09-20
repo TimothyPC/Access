@@ -20,7 +20,7 @@ function toggle_info() {
 	  img_1.style.display="block";
 	  img_2.style.display="block";
 	  
-	  img_0.src="img/scr0_tv.png";
+	  img_0.src="img/radio.jpg";
 	  img_1.src="img/scr1_tv.png";
 	  img_2.src="img/scr2_tv.png";
 	  
