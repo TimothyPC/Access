@@ -16,7 +16,7 @@
 	
     <p>Digital TV</p>
 	&emsp;    <img src="hd_icon.png" > <br>
-    <a href="https://github.com/TimothyPC/Digital-Access/raw/master/Digital%20Media.apk"> <img src="download.png"> </a> 
+    <a href="https://github.com/TimothyPC/Digital-Access/raw/master/Free%20Digital%20Tv.apk"> <img src="download.png"> </a> 
     <br>
 	
 	<p0 id="p0" onclick="toggle_info()" > See App Info...  </p0> 
