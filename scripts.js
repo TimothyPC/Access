@@ -20,9 +20,9 @@ function toggle_info() {
 	  img_1.style.display="block";
 	  img_2.style.display="block";
 	  
-	  img_0.src="img/scr0_tv.png";
-	  img_1.src="img/scr1_tv.png";
-	  img_2.src="img/scr2_tv.png";
+	  img_0.src="scr0_tv.png";
+	  img_1.src="scr1_tv.png";
+	  img_2.src="scr2_tv.png";
 	  
 	}
 	else {
@@ -58,9 +58,9 @@ function toggle_info_2() {
 	  img_4.style.display="block";
 	  img_5.style.display="block";
 	  
-	  img_3.src="img/scr_rd0.png";
-	  img_4.src="img/scr_rd1.png";
-	  img_5.src="img/scr_rd2.png";
+	  img_3.src="scr_rd0.png";
+	  img_4.src="scr_rd1.png";
+	  img_5.src="scr_rd2.png";
 	  
 	}
 	else {
