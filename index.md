@@ -16,10 +16,8 @@
 	
     <p>Digital TV</p>
 	&emsp;    <img src="hd_icon.png" > <br>
-	
-<a href="https://github.com/TimothyPC/Digital-Access/raw/master/Digital%20Media.apk"> <img src="download.png"> </a> 
-
-	<br>
+    <a href="https://github.com/TimothyPC/Digital-Access/raw/master/Digital%20Media.apk"> <img src="download.png"> </a> 
+    <br>
 	
 	<p0 id="p0" onclick="toggle_info()" > See App Info...  </p0> 
 	<script src="scripts.js"></script>
@@ -34,8 +32,9 @@
 	
 	
 	<p>Real Offline Radio Player</p>
-	<img src="radio.jpg" >  &emsp;  <img  id="img_dwn" src="download.png" >
-	<br>
+	<img src="radio.jpg" > 
+        <a href="https://github.com/TimothyPC/Digital-Access-0/raw/master/Digital%20Offline%20Radio%20Player.apk"> <img src="download.png"> </a> 
+        <br>
 	
 	<p02 id="p02" onclick="toggle_info_2()" > See App Info...  </p02> 
 	<script src="scripts.js"></script>
