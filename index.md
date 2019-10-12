@@ -12,6 +12,15 @@
     <h1>CyberGateKeeper's Apps & More</h1>
 	<br> <br>
 	
+ <!--Adsense Ads For Sites    -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7348569287829032",
+          enable_page_level_ads: true
+     });
+    </script>
+
 	
 	
     <p>Digital TV</p>
