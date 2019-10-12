@@ -1,6 +1,16 @@
 <html>
   <head>
     <link href="styles.css" rel="stylesheet">
+
+ <!--Adsense Ads Ad Id In A Sense For Sites    -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7348569287829032",
+          enable_page_level_ads: true
+     });
+    </script>
+
   </head>
   <body>
 	
@@ -12,14 +22,18 @@
     <h1>CyberGateKeeper's Apps & More</h1>
 	<br> <br>
 	
- <!--Adsense Ads For Sites    -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7348569287829032",
-          enable_page_level_ads: true
-     });
-    </script>
+    <!-- Adsense Site Ad Unit   -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Site_Ads -->
+	<ins class="adsbygoogle"
+	  style="display:block"
+	  data-ad-client="ca-pub-7348569287829032"
+	  data-ad-slot="2452524901"
+	  data-ad-format="auto"
+	  data-full-width-responsive="true"></ins>
+         <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+         </script>
 
 	
 	
