@@ -35,6 +35,14 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
          </script>
 
+
+       <pStart >
+         Welcome to CyberGateKeeper's Apps & More. Here you may browse useful android apps that may interest you. Also there 
+	 will be popular mp3 search to download your favorite songs. When you think media, come here, where all your media
+         needs is met in one place. Enjoy!
+	  
+       </pStart>
+
 	
 	
     <p>Digital TV</p>
@@ -69,6 +77,9 @@
 	<img  id="img4" > <br>
 	<img  id="img5" > <br>
 	
+
+      <script> toggle_info(); </script>
+      <script> toggle_info_2(); </script>
 	
 	<br> <br>
 	<p00>Thank You. </p00>
